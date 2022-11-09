@@ -19,4 +19,15 @@
 .item:nth-child(1),.item:nth-child(5){
     grid-row: span 2;
 }
-
+.item:nth-child(1){
+    background: #FF68D5;
+}
+.item:nth-child(2),.item:nth-child(3),.item:nth-child(5),.item:nth-child(7){
+    background: #23ECF9;
+}
+.item:nth-child(4){
+    background: #F80000;
+}
+.item:nth-child(10){
+    background: #8DFF65;
+}
